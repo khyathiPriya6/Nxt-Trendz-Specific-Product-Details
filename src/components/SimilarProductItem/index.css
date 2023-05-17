@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.similar-product {
+  border-radius: 7px;
+  margin-left: 20px;
+}
+
+.similar-product-img {
+  width: 300px;
+  border-radius: 20px;
+}
+
+.similar-product-title {
+  font-weight: bold;
+}
+
+.similar-product-brand {
+  color: #616e7c;
+}
+
+.price-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.similar-product-price {
+  font-weight: bold;
+}
+
+.similar-product-rating-container {
+  padding: 10px;
+  background-color: #3b82f6;
+  color: #ffffff;
+  width: 70px;
+  height: 39px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: 150px;
+}
